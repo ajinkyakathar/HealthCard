@@ -1,14 +1,21 @@
 Project Name : Health card using python
 
 
+
+
 Project description : In health section making hospitalization quick and easy in case of emergency and accidents etc. by making health card in the form of qr code of person mentioning diseases. With the help qr code reader the health card will be scanned and diseases and treatment of patient will be easy to understand.
 
 
+
+
 Project screenshots : 
-![Screenshot (178)](https://user-images.githubusercontent.com/94670808/154789193-f289fd0b-8da7-46c4-b576-abf7f98135a5.png)
-![Screenshot (179)](https://user-images.githubusercontent.com/94670808/154789224-78e2621b-0c85-40fb-95f8-081151436a9a.png)
-![Screenshot (180)](https://user-images.githubusercontent.com/94670808/154789241-e2da05d0-fddf-4d11-88c8-3d7e5edb67c0.png)
-![Screenshot (181)](https://user-images.githubusercontent.com/94670808/154789267-5c339f12-1680-4de5-9b06-beb9936d5152.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/94670808/154789502-531a76de-97e3-43f1-af0e-f3b65a8b96ab.png)
+![Screenshot (179)](https://user-images.githubusercontent.com/94670808/154789510-ebcf299e-7e7e-4b6b-a6f7-2891953d6fe3.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/94670808/154789548-42c6844a-da00-4c09-9c44-e21cc181246a.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/94670808/154789532-623893fd-fbdf-4113-a3fa-2cf2a9ab0532.png)
+
+
+
 
 
 
