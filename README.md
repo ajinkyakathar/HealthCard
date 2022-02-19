@@ -37,3 +37,22 @@ Security
 We can integrate user identity provider services and enhance the capability of web applications. For example, we can use Azure AD to maintain user database, authenticated login and authorization.
 
 
+
+Project demo, azure service used and
+
+https://user-images.githubusercontent.com/94670808/154810259-3dd09d3a-0700-4e1b-b4fc-992d8bfecae6.mp4
+
+
+Video content : azure service used : 0:00 to 4:26
+                deployment of code : 4:27 to 10:12
+                justification of deployed code : 10:13 to 11:28
+                
+                
+                
+I have used microsoft azure web app service for my project and shared all the necessary evidences for its justification.                 
+
+ its deployment and justification :
+
+
+
+
